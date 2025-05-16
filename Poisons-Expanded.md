@@ -1,7 +1,15 @@
-<!-- https://homebrewery.naturalcrit.com/ -->
+<!-- https://homebrewery.naturalcrit.com/share/2CvPuTI4NVnw -->
 
 <div class='artist' style='top:30px;right:100px;'>
-[v0.3.0]()
+[v0.3.0](https://github.com/IP-DND-Resources/Poisons-Expanded/tree/main)
+</div>
+
+<div class='artist' style='top:40px;right:100px;'>
+[IP_DnD_Resources](https://homebrewery.naturalcrit.com/user/IP_DND_RESOURCES?sort=alpha&dir=asc)
+</div>
+
+<div class='artist' style='top:50px;right:100px;'>
+[u/IP_DnD_Resources](https://www.reddit.com/user/IP_DnD_Resources/)
 </div>
 
 # Poisons Expanded
@@ -371,28 +379,28 @@ Injury poison can be applied as a Bonus Action to a weapon, a piece of ammunitio
 Interestingly, the Injury Poison entry doesn't say "1 dose" where as the Poisoner feat does.
 
 ### Inconsistency
-Assuming 4 ounces of a poison is intended to be sufficient to coat 3 pieces of ammunition, then applying it to a melee weapon should apply for more than 1 hit. Implied by this, a full dose of poison shouldn't have to be applied in its entirety. The portion that would be applied to 1 arrow should be all that is required to removed from the vial, allowing the remaining poison to retain it's potency until needed. Similar to how Rations are sold as a 2 lbs item, but a Medium creature only needs to consume 1 lbs at a time.
+Assuming 4 ounces of a poison is intended to be sufficient to coat 3 pieces of ammunition, then applying it to a melee weapon should apply for more than 1 hit. Implied by this, a full dose of poison shouldn't have to be applied in its entirety. The portion that would be applied to 1 arrow should be all that is required to be removed from the vial, allowing the remaining poison to retain it's potency until needed. Similar to how Rations are sold as a 2 lbs item, but a Medium creature only needs to consume 1 lbs at a time.
 
 ### Efficacy
 Considering the 2024 Monster manual and Poison damage and Poisoned condition, and other comparables, here is some data.
 
 |Type|Immune %|Resistant %|Vulnerable %|
 |:---|:---|:---|:---|
-|P. Damage|23%|1.8%|0%|
-|Poisoned|23.4%|0%|0%|
+|Poison|23%|1.8%|0%|
 |Cold|4.3%|12.4%|0.8%|
 |Fire|9.2%|9.6%|1.8%|
+|Poisoned|23.4%|0%|0%|
 |Exhaustion|15.5%|0%|0%|
 |Frightened|15.5%|0%|0%|
 |Charmed|18.5%|0%|0%|
 |Paralyzed|11.6%|0%|0%|
 
-Poison damage and Poisoned is already the most useless condition and damage type against creatures by a large margin.
+Poison damage and Poisoned is already the least useful damage type and condition against creatures by a large margin.
 
 ### Weapon Application (Optional)
 One dose (4 ounces) of an Injury poison contains enough uses to subject a creature to its effects up to 4 times. Once applied to a weapon or piece of ammunition, the poison retains it's potency for 1 minute. A creature that takes Piercing or Slashing damage from the poisoned weapon or ammunition is subjected to the effect of the poison applied and one applied use of the poison is expended.
 
-As a Bonus Action, you can apply up to 4 ounces of an Injury poison from a single container you are holding to a melee weapon. Alternatively, you can apply 1 ounce an Injury poison from a single container you are holding to a piece of ammunition or a ranged weapon with the Thrown property, up to 4 times, choosing a different weapon or piece of ammunition each time.
+As a Bonus Action, you can apply up to 4 ounces of an Injury poison from a single container you are holding to a melee weapon. Alternatively, you can apply 1 ounce of an Injury poison from a single container you are holding to a piece of ammunition or a ranged weapon with the Thrown property, up to 4 times, choosing a different weapon or piece of ammunition each time.
 
 {{imageMaskCorner17,--offsetX:52%,--offsetY:-17%,--rotation:0
   ![](https://raw.githubusercontent.com/IP-DND-Resources/Poisons-Expanded/refs/heads/main/img/Combat%20Application.png){opacity:85%,width:1000px,right:-350px,bottom:60px,transform:scaleX(-1)}
