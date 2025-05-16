@@ -275,7 +275,7 @@ A creature subjected to Stillness must succeed on a DC 15 Constitution saving th
      Use --offsetY to shift the mask up or down
      Use --rotation to set rotation angle in degrees. -->
 
-<div class='artist' style='bottom:40px;right:375px;'>
+<div class='artist' style='bottom:40px;right:400px;'>
 ##### Blowgun
 [Dall-E 3](https://raw.githubusercontent.com/IP-DND-Resources/Poisons-Expanded/refs/heads/main/img/prompts.txt)
 </div>
@@ -284,6 +284,9 @@ A creature subjected to Stillness must succeed on a DC 15 Constitution saving th
 {{footnote Items }}
 
 \page
+
+
+\column
 
 ### Torment (150 GP)
 *Ingested Herbal Poison*
@@ -321,13 +324,12 @@ A creature subjected to Wyvern Poison makes a DC 14 Constitution saving throw, t
 :
 
 
-\column
 
 :
 
 <div class='classTable wide'>
-
-### Footnotes
+### 
+<div></div>
 
 - (*) This data is simply a reference to the mechanics printed in the DMG for complete evaluation of this homebrew.
 
@@ -337,14 +339,14 @@ A creature subjected to Wyvern Poison makes a DC 14 Constitution saving throw, t
 
 </div>
 
-{{imageMaskEdge7,--offset:1%,--rotation:270
-  ![](https://raw.githubusercontent.com/IP-DND-Resources/Poisons-Expanded/refs/heads/main/img/Apothekerin.png){opacity:85%,width:700px,right:-200px,bottom:50px}
+{{imageMaskEdge7,--offset:5%,--rotation:-270
+  ![](https://raw.githubusercontent.com/IP-DND-Resources/Poisons-Expanded/refs/heads/main/img/Apothekerin.png){opacity:85%,width:700px,left:-225px,bottom:0px,transform:scaleX(-1)}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
      Use --rotation to set rotation angle in degrees. -->
 
-<div class='artist' style='top:60px;right:20px;'>
+<div class='artist' style='top:60px;left:10px;'>
 ##### Apothekerin
 [Dall-E 3](https://raw.githubusercontent.com/IP-DND-Resources/Poisons-Expanded/refs/heads/main/img/prompts.txt)
 </div>
