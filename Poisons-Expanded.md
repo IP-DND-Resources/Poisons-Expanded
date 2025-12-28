@@ -1,7 +1,7 @@
 <!-- https://homebrewery.naturalcrit.com/share/2CvPuTI4NVnw -->
 
 <div class='artist' style='top:30px;right:100px;'>
-[v0.3.0](https://github.com/IP-DND-Resources/Poisons-Expanded/tree/main)
+[v0.4.0](https://github.com/IP-DND-Resources/Poisons-Expanded/tree/main)
 </div>
 
 <div class='artist' style='top:40px;right:100px;'>
@@ -148,7 +148,7 @@ You gain Proficiency with the Herbalism or Poisoner's kit (choose when you selec
 
 **Ability Score Increase.** Increase your Dexterity or Intelligence score by 1, to a maximum of 20.
 
-**Potent Effect.** Your poisons that apply a condition or non-damaging effect other than the Poisoned condition, ignore any requirement to be "Poisoned in this way" and is affected by that condition or effect for the duration unless the creature is specifically immune to it.
+**Potent Effect.** Your poisons that apply a condition or non-damaging effect other than the Poisoned condition, ignore any requirement to be "Poisoned in this way" and is affected by that condition or effect for the duration unless the creature is specifically immune to it. The DC to avoid or end that condition is increased by your Proficiency Bonus.
 
 **Toxicity.** Creatures that roll a Constitution saving throw to avoid, reduce, or end the effects or damage of your poisons have Disadvantage on that check.
 
@@ -196,8 +196,8 @@ A creature subjected to Cockatrice Bane must succeed on a DC 15 Constitution sav
 
 A creature subjected to Essence of Ether must succeed on a DC 15 Constitution saving throw or have the Poisoned condition for 8 hours. The creature also has the Unconscious condition while Poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
 
-{{imageMaskCorner20,--offsetX:-44%,--offsetY:-64%,--rotation:0
-  ![](https://raw.githubusercontent.com/IP-DND-Resources/Poisons-Expanded/refs/heads/main/img/Illegal%20Goods.png){opacity:85%,width:450px,left:0px,bottom:-210px}
+{{imageMaskCorner20,--offsetX:-44%,--offsetY:-67%,--rotation:0
+  ![](https://raw.githubusercontent.com/IP-DND-Resources/Poisons-Expanded/refs/heads/main/img/Illegal%20Goods.png){opacity:85%,width:450px,left:0px,bottom:-240px}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -311,7 +311,7 @@ A creature subjected to Truth Serum must succeed on a DC 11 Constitution saving 
 ### Wither (400 GP)
 *Ingested Herbal Poison*
 
-A creature subjected to Wither must succeed on a DC 13 Constitution saving throw or have the Poisoned condition for 1d4 days. The Poisoned creature repeats the save each day, ending the effect on itself on a success. The creature also a minimum Exhaustion level of 1 while Poisoned in this way.
+A creature subjected to Wither must succeed on a DC 13 Constitution saving throw or have the Poisoned condition for 1d4 days. The Poisoned creature repeats the save each day, ending the effect on itself on a success. The creature also has a minimum Exhaustion level of 1 while Poisoned in this way.
 
 ### Wyvern Poison (1,200 GP)
 *Injury Creature Poison*
@@ -322,9 +322,6 @@ A creature subjected to Wyvern Poison makes a DC 14 Constitution saving throw, t
 :
 :
 :
-
-
-
 :
 
 <div class='classTable wide'>
@@ -356,7 +353,7 @@ A creature subjected to Wyvern Poison makes a DC 14 Constitution saving throw, t
 
 \page
 
-## Optional Dosage Addendum
+## Optional Dosage
 ### Ambiguity
 There is some ambiguity as to how "1 dose" of injury poison is used regarding weapons and ammunition. Based on how it is used, Basic Poison should be considered an injury poison. For other poison types, it seems to be clear 1 dose = 1 use.
 
@@ -398,6 +395,8 @@ Considering the 2024 Monster manual and Poison damage and Poisoned condition, an
 |Paralyzed|11.6%|0%|0%|
 
 Poison damage and Poisoned is already the least useful damage type and condition against creatures by a large margin.
+
+\column
 
 ### Weapon Application (Optional)
 One dose (4 ounces) of an Injury poison contains enough uses to subject a creature to its effects up to 4 times. Once applied to a weapon or piece of ammunition, the poison retains it's potency for 1 minute. A creature that takes Piercing or Slashing damage from the poisoned weapon or ammunition is subjected to the effect of the poison applied and one applied use of the poison is expended.
