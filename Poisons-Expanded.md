@@ -13,7 +13,7 @@
 </div>
 
 # Poisons Expanded
-The 2024 DMG gives some cursory outlines for advanced poisons, meanat to be the basis of a DM introducing it into their game. The primary goal of this homebrew is to add Herbal Poisons and build an expansion that completes this outline into a resource that maintains a straightforward and easy to digest (pun intended!) system. Herbal poisons focus more on applying conditions rather than damage, and let creature poisons in the DMG be more damage focused. The resources found here are designed to be standalone or in addition to the Poison section of the DM's Toolbox on page 90 of the 2024 DMG.
+The 2024 DMG gives some cursory outlines for advanced poisons, meant to be the basis of a DM introducing it into their game. The primary goal of this homebrew is to add Herbal Poisons and build an expansion that completes this outline into a resource that maintains a straightforward and easy to digest (pun intended!) system. Herbal poisons focus more on applying conditions rather than damage, and let creature poisons in the DMG be more damage focused. The resources found here are designed to be standalone or in addition to the Poison section of the DM's Toolbox on page 90 of the 2024 DMG.
 
 ## Poison Types*
 Given their insidious and deadly nature, poisons are a favorite tool among assassins and evil creatures. Poisons come in the following four types:
